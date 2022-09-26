@@ -4,3 +4,5 @@ main: dev.alexzvn.plugin.Plugin
 author: Alexzvn
 descriptions: A simple plugin
 version: 0.0.1
+
+api-version: 1.18
